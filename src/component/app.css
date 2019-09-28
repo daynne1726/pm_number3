@@ -1,0 +1,9 @@
+.jumbotron{
+    margin-top: 10%;
+    width: 40%;
+    background-image: linear-gradient(to top, #2cd1ff, #00daf3, #00dfd0, #00e19a, #15de52);
+    box-shadow: 1px 1px 2px black, 0 0 25px lightblue, 0 0 5px black;
+}
+h2{
+    font-family: fantasy;
+}
